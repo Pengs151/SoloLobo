@@ -1,7 +1,7 @@
 {
   "main.css": "/SoloLobo/static/css/main.e18d783a.chunk.css",
-  "main.js": "/SoloLobo/static/js/main.bb4039f8.chunk.js",
-  "main.js.map": "/SoloLobo/static/js/main.bb4039f8.chunk.js.map",
+  "main.js": "/SoloLobo/static/js/main.659ed118.chunk.js",
+  "main.js.map": "/SoloLobo/static/js/main.659ed118.chunk.js.map",
   "static/js/1.1a8e6146.chunk.js": "/SoloLobo/static/js/1.1a8e6146.chunk.js",
   "static/js/1.1a8e6146.chunk.js.map": "/SoloLobo/static/js/1.1a8e6146.chunk.js.map",
   "runtime~main.js": "/SoloLobo/static/js/runtime~main.d3fc01a1.js",
@@ -11,6 +11,6 @@
   "static/media/Spyro.jpg": "/SoloLobo/static/media/Spyro.c9201d40.jpg",
   "static/media/Jumbotron.css": "/SoloLobo/static/media/03_NEW-TO-DnD_Races_InlineR_RacesGeneral.905a85fb.jpg",
   "index.html": "/SoloLobo/index.html",
-  "precache-manifest.98a5746fb9d295af61597ce668656ad8.js": "/SoloLobo/precache-manifest.98a5746fb9d295af61597ce668656ad8.js",
+  "precache-manifest.47c8c1e320d692ff52328dc251f61255.js": "/SoloLobo/precache-manifest.47c8c1e320d692ff52328dc251f61255.js",
   "service-worker.js": "/SoloLobo/service-worker.js"
 }
