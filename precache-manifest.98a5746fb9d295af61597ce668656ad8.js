@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/SoloLobo/static/js/runtime~main.d3fc01a1.js"
   },
   {
-    "revision": "47d5d143329968b5ec65",
-    "url": "/SoloLobo/static/js/main.47d5d143.chunk.js"
+    "revision": "bb4039f80f67aac16cba",
+    "url": "/SoloLobo/static/js/main.bb4039f8.chunk.js"
   },
   {
-    "revision": "210864142c511e2b6741",
-    "url": "/SoloLobo/static/js/1.21086414.chunk.js"
+    "revision": "1a8e6146514b4ecd48e6",
+    "url": "/SoloLobo/static/js/1.1a8e6146.chunk.js"
   },
   {
-    "revision": "47d5d143329968b5ec65",
-    "url": "/SoloLobo/static/css/main.0ed5f77f.chunk.css"
+    "revision": "bb4039f80f67aac16cba",
+    "url": "/SoloLobo/static/css/main.e18d783a.chunk.css"
   },
   {
-    "revision": "a962f3047c5bb442adecccce0b0b2ade",
+    "revision": "dfcba73bf8511d65999ca04fc09c8324",
     "url": "/SoloLobo/index.html"
   }
 ];
